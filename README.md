@@ -18,3 +18,6 @@ JAVA 处理 Spring data mongodb 时区问题 :<br/>
 
 在SPRING DATA MONGODB中使用聚合统计查询<br/>
 参考资料：https://blog.csdn.net/u010084868/article/details/52622938
+
+mongodb的多表联查与与后续的数据处理<br/>
+参考资料：https://blog.csdn.net/DDKii/article/details/81504805
