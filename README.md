@@ -15,3 +15,6 @@ mongodb聚合规范写法：<br/>
 
 JAVA 处理 Spring data mongodb 时区问题 :<br/>
 参考资料：https://my.oschina.net/xiaominmin/blog/1861590
+
+在SPRING DATA MONGODB中使用聚合统计查询<br/>
+参考资料：https://blog.csdn.net/u010084868/article/details/52622938
