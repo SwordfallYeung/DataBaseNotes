@@ -22,3 +22,6 @@ JAVA 处理 Spring data mongodb 时区问题 :<br/>
 mongodb的多表联查与与后续的数据处理<br/>
 参考资料：https://blog.csdn.net/DDKii/article/details/81504805<br/>
 https://blog.csdn.net/qq_39489635/article/details/77720789
+
+mongod实战第二版pdf下载：<br/>
+http://www.roadjava.com/s/spsb/gjzl/2018/05/mongodbszdebpdfxz.html
