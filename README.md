@@ -30,6 +30,6 @@ mongoDB的Criteria查询：多表联合查询（效率很低）<br/>
 https://blog.csdn.net/EidenRitto/article/details/78521337
 
 MongoDB的劣势：<br/>
-1.不支持事务；
-2.不支持超过3个表的关联
-3.不支持外表字段作为查询条件
+1.不支持事务；<br/>
+2.不支持超过3个表的关联；<br/>
+3.不支持外表字段作为查询条件；<br/>
