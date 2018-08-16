@@ -46,3 +46,6 @@ https://blog.csdn.net/cfl20121314/article/details/50734559<br/>
 
 MongoDB进阶模式设计
 http://www.mongoing.com/mongodb-advanced-pattern-design<br/>
+
+《MongoDB实战》心得：<br/>
+基于文档的数据模型可以表示丰富的、多层次的数据结构。它经常用来处理无须多表关联的工作。
