@@ -6,7 +6,7 @@
 2.表名、字段名必须使用小写字母或数字，禁止出现数字开头，禁止两个下划线中间只出现数字。<br/>
 3.表名不使用复数名词。<br/>
 4.表必备三字段，id，gmt_create，gmt_modified<br/>
-  说明：其中id必为主键，类型为bigint unsigned、单表时自增、步长为1。gmt_create,gmt_modified的类型均为datetime类型，前者现在时表示主动创建，后者过去         分词表示被动更新。<br/>
+  说明：其中id必为主键，类型为bigint unsigned、单表时自增、步长为1。gmt_create,gmt_modified的类型均为datetime类型，前者现在时表示主动创建，后者过去分词表示被动更新。<br/>
 5.表的命名最好是加上"业务名称_表的作用"
 
 # MongoDB数据库
@@ -39,6 +39,7 @@ NoSql数据库使用半年后在设计上面的一些心得:<br/>
 https://www.cnblogs.com/AllenDang/p/3507821.html<br/>
 
 mysql与mongo相比，事务与约束性更强。在处理较为价值较高的数据时，关系型数据库有它天然的优势，然而任何一种业务情况下，关系型数据库都不是银弹策略。任何来抛开业务来谈论技术，都是在耍流氓。那么在什么情况下去选择mongo呢？<br/>
-1. 数据价值不是重点
-2. 属性查询需求较少
-3. 数据之间约束较少
+1. 数据价值不是重点<br/>
+2. 属性查询需求较少<br/>
+3. 数据之间约束较少<br/>
+https://blog.csdn.net/cfl20121314/article/details/50734559<br/>
