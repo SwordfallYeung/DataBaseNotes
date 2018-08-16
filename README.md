@@ -43,3 +43,6 @@ mysql与mongo相比，事务与约束性更强。在处理较为价值较高的�
 2. 属性查询需求较少<br/>
 3. 数据之间约束较少<br/>
 https://blog.csdn.net/cfl20121314/article/details/50734559<br/>
+
+MongoDB进阶模式设计
+http://www.mongoing.com/mongodb-advanced-pattern-design<br/>
