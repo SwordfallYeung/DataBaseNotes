@@ -49,3 +49,6 @@ http://www.mongoing.com/mongodb-advanced-pattern-design<br/>
 
 《MongoDB实战》心得：<br/>
 基于文档的数据模型可以表示丰富的、多层次的数据结构。它经常用来处理无须多表关联的工作。
+
+根据MongoDB内嵌子文档增删改(一对多):<br/>
+https://blog.csdn.net/walle167/article/details/51281199
