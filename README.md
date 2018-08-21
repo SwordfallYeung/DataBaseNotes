@@ -55,9 +55,11 @@ https://blog.csdn.net/walle167/article/details/51281199
 
 # HBase数据库
 rowkey设计：<br/>
+常用的rowkey设计为：salt (1 byte) + attr1_id (4 bytes) + timestamp (4 bytes) + attr2_id (4 bytes) <br/>
 https://blog.csdn.net/chengyuqiang/article/details/79134549
 
 rowkey避免热点：<br/>
 https://my.oschina.net/lanzp/blog/477732
 
 HBase二级索引：<br/>
+https://blog.csdn.net/WYpersist/article/details/79830811
