@@ -62,4 +62,5 @@ rowkey避免热点：<br/>
 https://my.oschina.net/lanzp/blog/477732
 
 HBase二级索引：<br/>
-https://blog.csdn.net/WYpersist/article/details/79830811
+https://blog.csdn.net/WYpersist/article/details/79830811<br/>
+https://www.jianshu.com/p/0ccd187910e5
