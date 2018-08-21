@@ -44,7 +44,7 @@ mysql与mongo相比，事务与约束性更强。在处理较为价值较高的�
 3. 数据之间约束较少<br/>
 https://blog.csdn.net/cfl20121314/article/details/50734559<br/>
 
-MongoDB进阶模式设计
+MongoDB进阶模式设计<br/>
 http://www.mongoing.com/mongodb-advanced-pattern-design<br/>
 
 《MongoDB实战》心得：<br/>
@@ -52,3 +52,12 @@ http://www.mongoing.com/mongodb-advanced-pattern-design<br/>
 
 根据MongoDB内嵌子文档增删改(一对多):<br/>
 https://blog.csdn.net/walle167/article/details/51281199
+
+# HBase数据库
+rowkey设计：<br/>
+https://blog.csdn.net/chengyuqiang/article/details/79134549
+
+rowkey避免热点：<br/>
+https://my.oschina.net/lanzp/blog/477732
+
+HBase二级索引：<br/>
