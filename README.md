@@ -57,7 +57,7 @@ mongodb数据库连接池（java版）<br/>
 https://www.cnblogs.com/dmir/p/4780544.html
 
 mongodb for java基本查询<br/>
-http://www.cnblogs.com/hoojo/archive/2011/06/02/2068665.html
+https://www.cnblogs.com/zhoulf/p/4571647.html
 
 # HBase数据库
 rowkey设计：<br/>
