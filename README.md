@@ -53,6 +53,12 @@ http://www.mongoing.com/mongodb-advanced-pattern-design<br/>
 根据MongoDB内嵌子文档增删改(一对多):<br/>
 https://blog.csdn.net/walle167/article/details/51281199
 
+mongodb数据库连接池（java版）<br/>
+https://www.cnblogs.com/dmir/p/4780544.html
+
+mongodb for java基本查询<br/>
+http://www.cnblogs.com/hoojo/archive/2011/06/02/2068665.html
+
 # HBase数据库
 rowkey设计：<br/>
 常用的rowkey设计为：salt (1 byte) + attr1_id (4 bytes) + timestamp (4 bytes) + attr2_id (4 bytes) <br/>
