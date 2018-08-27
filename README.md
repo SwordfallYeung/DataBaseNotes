@@ -58,7 +58,7 @@ https://www.cnblogs.com/dmir/p/4780544.html
 
 mongodb for java基本查询<br/>
 https://www.cnblogs.com/zhoulf/p/4571647.html<br/>
-mongodb条件查询<br/>
+mongodb多条件查询<br/>
 https://www.cnblogs.com/sa-dan/p/6836055.html
 
 # HBase数据库
