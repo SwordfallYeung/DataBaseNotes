@@ -61,6 +61,9 @@ https://www.cnblogs.com/zhoulf/p/4571647.html<br/>
 mongodb多条件查询<br/>
 https://www.cnblogs.com/sa-dan/p/6836055.html
 
+mongodb更新文档<br/>
+https://blog.csdn.net/u013066244/article/details/73849730
+
 # HBase数据库
 rowkey设计：<br/>
 常用的rowkey设计为：salt (1 byte) + attr1_id (4 bytes) + timestamp (4 bytes) + attr2_id (4 bytes) <br/>
