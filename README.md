@@ -38,7 +38,7 @@ NoSql数据库使用半年后在设计上面的一些心得:<br/>
 心得：①尽可能把一次展示所需的必要数据都存储到一起，②Mongodb不支持事务，所以务必在设计的时候考虑到这一点。核心业务数据尽可能通过结构设计做到数据插入的一致性。<br/>
 https://www.cnblogs.com/AllenDang/p/3507821.html<br/>
 
-mysql与mongo相比，事务与约束性更强。在处理较为价值较高的数据时，关系型数据库有它天然的优势，然而任何一种业务情况下，关系型数据库都不是银弹策略。任何来抛开业务来谈论技术，都是在耍流氓。那么在什么情况下去选择mongo呢？<br/>
+mysql与mongo相比，事务与约束性更强。在处理较为价值较高的数据时，关系型数据库有它天然的优势，然而任何一种业务情况下，关系型数据库都不是银弹策略。任何抛开业务来谈论技术，都是在耍流氓。那么在什么情况下去选择mongo呢？<br/>
 1. 数据价值不是重点<br/>
 2. 属性查询需求较少<br/>
 3. 数据之间约束较少<br/>
@@ -57,7 +57,9 @@ mongodb数据库连接池（java版）<br/>
 https://www.cnblogs.com/dmir/p/4780544.html
 
 mongodb for java基本查询<br/>
-https://www.cnblogs.com/zhoulf/p/4571647.html
+https://www.cnblogs.com/zhoulf/p/4571647.html<br/>
+mongodb条件查询<br/>
+https://www.cnblogs.com/sa-dan/p/6836055.html
 
 # HBase数据库
 rowkey设计：<br/>
