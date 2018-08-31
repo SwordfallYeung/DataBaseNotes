@@ -70,6 +70,9 @@ https://blog.csdn.net/leshami/article/details/55049891
 mongodb中查询返回指定字段<br/>
 https://blog.csdn.net/u012086400/article/details/78652919
 
+用java实现mongodb中查询返回指定字段<br/>
+https://blog.csdn.net/albert0707/article/details/54098164
+
 # HBase数据库
 rowkey设计：<br/>
 常用的rowkey设计为：salt (1 byte) + attr1_id (4 bytes) + timestamp (4 bytes) + attr2_id (4 bytes) <br/>
