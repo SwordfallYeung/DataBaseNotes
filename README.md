@@ -26,7 +26,7 @@ https://blog.csdn.net/qq_39489635/article/details/77720789<br/>
 参考模板如下：
 > db.getCollection('device').aggregate([ <br/>
   　 　 {$lookup:{from:"place", localField:"placeId", foreignField:"_id", as: "places"}}, <br/>
- 　　　　{$unwind:"$places"}, <br/>
+ 　　　{$unwind:"$places"}, <br/>
 　  　   {$project: {placeName:"$places.placeName", provinceCode:"$places.provinceCode", cityCode:"$places.cityCode",                            areaCode:"$places.areaCode", detailAddress:"$places.detailAddress"}} <br/>
   ])
 
