@@ -16,8 +16,12 @@ mongodb聚合规范写法：<br/>
 JAVA 处理 Spring data mongodb 时区问题 :<br/>
 参考资料：https://my.oschina.net/xiaominmin/blog/1861590
 
-在SPRING DATA MONGODB中使用聚合统计查询<br/>
+★★★★★<br/>
+在SPRING DATA MONGODB中使用聚合group by统计查询<br/>
 参考资料：https://blog.csdn.net/u010084868/article/details/52622938
+
+MongoDB 之 aggregate $group 巧妙运用 group多个字段：<br/>
+https://blog.csdn.net/molashaonian/article/details/79402430
 
 ★★★★★<br/>
 mongodb的多表联查与与后续的数据处理（最多两张表关联，而且无法根据关联的那张表里的字段查询）<br/>
