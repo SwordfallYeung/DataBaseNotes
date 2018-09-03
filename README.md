@@ -30,7 +30,8 @@ https://blog.csdn.net/qq_39489635/article/details/77720789<br/>
 　　{$unwind:"$places"}, <br/>
 　　{$project: {deviceName:"$deviceName" ,placeName:"$places.placeName", provinceCode:"$places.provinceCode", <br/>
 　　cityCode:"$places.cityCode", areaCode:"$places.areaCode", detailAddress:"$places.detailAddress"}}, <br/>
-　　{$sort: {upTime: -1}} <br/>
+　　{$sort: {upTime: -1}}，<br/>
+　　{$limit: 2}
 　])
 
 Spring-Data-Mongodb中的project()的用法<br/>
