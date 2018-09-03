@@ -29,7 +29,8 @@ https://blog.csdn.net/qq_39489635/article/details/77720789<br/>
 　　{$lookup:{from:"place", localField:"placeId", foreignField:"_id", as: "places"}}, <br/>
 　　{$unwind:"$places"}, <br/>
 　　{$project: {deviceName:"$deviceName" ,placeName:"$places.placeName", provinceCode:"$places.provinceCode", <br/>
-　　cityCode:"$places.cityCode", areaCode:"$places.areaCode", detailAddress:"$places.detailAddress"}} <br/>
+　　cityCode:"$places.cityCode", areaCode:"$places.areaCode", detailAddress:"$places.detailAddress"}}, <br/>
+　　{$sort: {upTime: -1}} <br/>
 　])
 
 mongod实战第二版pdf下载：<br/>
