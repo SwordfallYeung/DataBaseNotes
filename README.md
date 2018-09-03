@@ -33,7 +33,10 @@ https://blog.csdn.net/qq_39489635/article/details/77720789<br/>
 　　{$sort: {upTime: -1}} <br/>
 　])
 
-mongod实战第二版pdf下载：<br/>
+Spring-Data-Mongodb中的project()的用法<br/>
+https://blog.csdn.net/hotdust/article/details/52605990
+
+mongodb实战第二版pdf下载：<br/>
 http://www.roadjava.com/s/spsb/gjzl/2018/05/mongodbszdebpdfxz.html
 
 mongoDB的Criteria查询：多表联合查询（效率很低）<br/>
