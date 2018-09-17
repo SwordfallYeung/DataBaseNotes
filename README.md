@@ -105,6 +105,9 @@ https://blog.csdn.net/albert0707/article/details/54098164
 mongodb集群连接<br/>
 https://blog.csdn.net/truong/article/details/74521636
 
+mongodb大数据量分页查询的效率问题<br/>
+https://blog.csdn.net/heihu_malice7/article/details/78958916
+
 # HBase数据库
 rowkey设计：<br/>
 常用的rowkey设计为：salt (1 byte) + attr1_id (4 bytes) + timestamp (4 bytes) + attr2_id (4 bytes) <br/>
