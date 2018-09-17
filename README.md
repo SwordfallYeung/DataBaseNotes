@@ -106,7 +106,7 @@ mongodb集群连接<br/>
 https://blog.csdn.net/truong/article/details/74521636
 
 mongodb大数据量分页查询的效率问题<br/>
-https://blog.csdn.net/heihu_malice7/article/details/78958916
+https://blog.csdn.net/zhu_tianwei/article/details/44465415
 
 # HBase数据库
 rowkey设计：<br/>
