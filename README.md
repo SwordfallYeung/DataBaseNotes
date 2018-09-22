@@ -111,6 +111,9 @@ https://blog.csdn.net/zhu_tianwei/article/details/44465415
 Spark与mongodb整合完整版本<br/>
 https://cloud.tencent.com/developer/article/1032526
 
+Spark连接mongodb集群<br/>
+https://piaosanlang.gitbooks.io/mongodb/content/03day/section99.html
+
 # HBase数据库
 rowkey设计：<br/>
 常用的rowkey设计为：salt (1 byte) + attr1_id (4 bytes) + timestamp (4 bytes) + attr2_id (4 bytes) <br/>
