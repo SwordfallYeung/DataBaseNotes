@@ -117,6 +117,8 @@ Spark连接mongodb集群<br/>
 https://piaosanlang.gitbooks.io/mongodb/content/03day/section99.html
 
 MongoDB下根据内嵌数组大小查询<br/>
+https://blog.csdn.net/gao36951/article/details/40678875<br/>
+Java MongoDB下根据数组大小进行查询的方法<br/>
 https://blog.csdn.net/gao36951/article/details/40678875
 
 --------------------------------------------------------------------------------------------------------------------------------------
