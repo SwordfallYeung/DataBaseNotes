@@ -118,8 +118,12 @@ https://piaosanlang.gitbooks.io/mongodb/content/03day/section99.html
 
 MongoDB下根据内嵌数组大小查询<br/>
 https://blog.csdn.net/gao36951/article/details/40678875<br/>
+
 Java MongoDB下根据数组大小进行查询的方法<br/>
 https://blog.csdn.net/gao36951/article/details/40678875
+
+mongodb find复杂条件查询 (or与and)<br/>
+https://blog.csdn.net/tjbsl/article/details/80620303
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
