@@ -114,6 +114,9 @@ https://cloud.tencent.com/developer/article/1032526
 Spark连接mongodb集群<br/>
 https://piaosanlang.gitbooks.io/mongodb/content/03day/section99.html
 
+MongoDB下根据内嵌数组大小查询<br/>
+https://blog.csdn.net/gao36951/article/details/40678875
+
 # HBase数据库
 rowkey设计：<br/>
 常用的rowkey设计为：salt (1 byte) + attr1_id (4 bytes) + timestamp (4 bytes) + attr2_id (4 bytes) <br/>
