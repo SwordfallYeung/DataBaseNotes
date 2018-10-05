@@ -125,6 +125,9 @@ https://blog.csdn.net/gao36951/article/details/40678875
 mongodb find复杂条件查询 (or与and)<br/>
 https://blog.csdn.net/tjbsl/article/details/80620303
 
+mongodbexport 与 mongodbimport数据导入导出<br/>
+https://www.cnblogs.com/qingtianyu2015/p/5968400.html
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
