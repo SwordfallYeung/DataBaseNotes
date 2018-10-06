@@ -128,6 +128,11 @@ https://blog.csdn.net/tjbsl/article/details/80620303
 mongodbexport 与 mongodbimport数据导入导出<br/>
 https://www.cnblogs.com/qingtianyu2015/p/5968400.html
 
+mongo中获取内嵌数组的长度<br/>
+https://blog.csdn.net/luoduyu/article/details/78288258
+
+MongoDB数据库某个字段求和<br/>
+https://blog.csdn.net/andywa007/article/details/74950320
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
