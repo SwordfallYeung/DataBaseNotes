@@ -133,6 +133,12 @@ https://blog.csdn.net/luoduyu/article/details/78288258
 
 MongoDB数据库某个字段求和<br/>
 https://blog.csdn.net/andywa007/article/details/74950320
+
+MongoDB数据库报错：<br/>
+>com.mongodb.MongoQueryException: Query failed with error code 133 and error message 'Could not find host matching read preference { mode: "primary" } for set data' on server 192.168.31.230:39017<br/>
+貌似是无法连接mongodb 的primary主服务器。<br/>
+
+https://www.oschina.net/question/1428558_2159367
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
