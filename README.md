@@ -147,6 +147,9 @@ https://docs.mongodb.com/spark-connector/current/configuration/#cache-configurat
 mongoDB 大数据量排序索引<br/>
 http://orange2008.iteye.com/blog/1754168
 
+mongoDB索引创建<br/>
+http://blog.51cto.com/chenql/2071267
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
