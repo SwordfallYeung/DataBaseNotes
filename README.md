@@ -140,9 +140,12 @@ MongoDB数据库报错：<br/>
 
 https://www.oschina.net/question/1428558_2159367
 
-### Spark从MongoDB库中抓取数据指定分区类型和分区大小
+Spark从MongoDB库中抓取数据指定分区类型和分区大小<br/>
 http://www.th7.cn/db/nosql/201706/242836.shtml<br/>
 https://docs.mongodb.com/spark-connector/current/configuration/#cache-configuration
+
+mongoDB 大数据量排序索引<br/>
+http://orange2008.iteye.com/blog/1754168
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
