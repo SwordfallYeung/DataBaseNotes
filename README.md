@@ -150,6 +150,11 @@ http://orange2008.iteye.com/blog/1754168
 mongoDB索引创建<br/>
 http://blog.51cto.com/chenql/2071267
 
+### MongoDB索引管理<br/>
+创建索引： db.users.createIndex({name:1})<br/>
+查看索引： getIndexes()方法可以用来查看集合的所有索引<br/>
+http://blog.51cto.com/chenql/2071267
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
