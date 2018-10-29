@@ -155,6 +155,11 @@ http://blog.51cto.com/chenql/2071267
 查看索引： getIndexes()方法可以用来查看集合的所有索引<br/>
 http://blog.51cto.com/chenql/2071267
 
+### mongoDB报“com.mongodb.MongoCursorNotFoundException，error code -5”
+
+https://blog.csdn.net/zh0u_f/article/details/72897628<br/>
+http://www.cnblogs.com/gaoze/p/7212436.html<br/>
+https://blog.csdn.net/demon_LL/article/details/56843700?locationNum=12&fps=1<br/>
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
