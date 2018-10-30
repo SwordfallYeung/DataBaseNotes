@@ -116,6 +116,9 @@ https://cloud.tencent.com/developer/article/1032526
 Spark连接mongodb集群<br/>
 https://piaosanlang.gitbooks.io/mongodb/content/03day/section99.html
 
+Spark集成Mongodb的API<br/>
+https://blog.csdn.net/txbsw/article/details/83377005
+
 MongoDB下根据内嵌数组大小查询<br/>
 https://blog.csdn.net/gao36951/article/details/40678875<br/>
 
