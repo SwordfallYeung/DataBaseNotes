@@ -159,10 +159,14 @@ http://blog.51cto.com/chenql/2071267
 http://blog.51cto.com/chenql/2071267
 
 ### mongoDB报“com.mongodb.MongoCursorNotFoundException，error code -5”
-
 https://blog.csdn.net/zh0u_f/article/details/72897628<br/>
 http://www.cnblogs.com/gaoze/p/7212436.html<br/>
 https://blog.csdn.net/demon_LL/article/details/56843700?locationNum=12&fps=1<br/>
+
+### mongodb 对 内嵌数据添加多个数据操作
+https://blog.csdn.net/qq_20127333/article/details/51508863<br/>
+https://blog.csdn.net/niclascage/article/details/47009989<br/>
+https://blog.csdn.net/dream20nn/article/details/51306228?utm_source=blogxgwz1
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
