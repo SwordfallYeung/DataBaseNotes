@@ -61,9 +61,9 @@ mongoDB的Criteria查询：多表联合查询（效率很低）<br/>
 https://blog.csdn.net/EidenRitto/article/details/78521337
 
 MongoDB的劣势：<br/>
-1.不支持事务；<br/>
-2.不支持超过3个表的关联；<br/>
-3.不支持外表字段作为查询条件；<br/>
+1. 不支持事务；最新版本4.0以上已支持事务 <br/>
+2. 不支持超过3个表的关联；<br/>
+3. 不支持外表字段作为查询条件；<br/>
 
 NoSql数据库使用半年后在设计上面的一些心得:<br/>
 心得：①尽可能把一次展示所需的必要数据都存储到一起，②Mongodb不支持事务，所以务必在设计的时候考虑到这一点。核心业务数据尽可能通过结构设计做到数据插入的一致性。<br/>
@@ -168,6 +168,11 @@ https://blog.csdn.net/qq_20127333/article/details/51508863<br/>
 https://blog.csdn.net/niclascage/article/details/47009989<br/>
 https://blog.csdn.net/dream20nn/article/details/51306228?utm_source=blogxgwz1
 
+### mongodb 根据条件删除
+>db.getCollection('collisionTask').remove({_id:""})
+
+### mongodb 性能测试
+http://www.cnblogs.com/lovecindywang/archive/2011/03/02/1969324.htm
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
