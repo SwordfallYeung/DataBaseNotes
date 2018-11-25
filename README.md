@@ -174,6 +174,12 @@ https://blog.csdn.net/dream20nn/article/details/51306228?utm_source=blogxgwz1
 ### mongodb 性能测试
 http://www.cnblogs.com/lovecindywang/archive/2011/03/02/1969324.htm
 
+### mongodb 监控工具
+开源的Ganglia、Zabbix、cacti、nagos，mongodb自带的mongostats/mongotop，MongoDB Monitoring Service<br/>
+https://www.cnblogs.com/hy007x/p/7736403.html<br/>
+https://www.cnblogs.com/ahaii/p/7146290.html?utm_source=itdadao&utm_medium=referral<br/>
+https://blog.csdn.net/jianlong727/article/details/54586855<br/>
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
