@@ -180,6 +180,11 @@ https://www.cnblogs.com/hy007x/p/7736403.html<br/>
 https://www.cnblogs.com/ahaii/p/7146290.html?utm_source=itdadao&utm_medium=referral<br/>
 https://blog.csdn.net/jianlong727/article/details/54586855<br/>
 
+### Monogodb副本集+切片搭建高可用
+https://yq.aliyun.com/articles/617226<br/>
+读写分离：https://blog.csdn.net/majinggogogo/article/details/51586409<br/>
+https://blog.csdn.net/majinggogogo/article/details/51586409<br/>
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
