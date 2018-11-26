@@ -188,6 +188,9 @@ https://blog.csdn.net/majinggogogo/article/details/51586409<br/>
 ### Mongodb 并发连接数过大会导致Mongodb节点挂掉
 使用：ulimit -n 查看linux的并发连接数
 
+### Mongodb 报 “连接时提示Connection reset by peers？”
+https://yq.aliyun.com/articles/53771<br/>
+https://yq.aliyun.com/articles/8461?spm=a2c4e.11153940.blogcont53771.6.48ea3d825H8ebr
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
