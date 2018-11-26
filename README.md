@@ -185,6 +185,9 @@ https://yq.aliyun.com/articles/617226<br/>
 读写分离：https://blog.csdn.net/majinggogogo/article/details/51586409<br/>
 https://blog.csdn.net/majinggogogo/article/details/51586409<br/>
 
+### Mongodb 并发连接数过大会导致Mongodb节点挂掉
+使用：ulimit -n 查看linux的并发连接数
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
