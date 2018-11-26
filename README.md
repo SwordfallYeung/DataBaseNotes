@@ -195,6 +195,9 @@ https://yq.aliyun.com/articles/8461?spm=a2c4e.11153940.blogcont53771.6.48ea3d825
 ### mongodb性能优化
 https://blog.csdn.net/happy_jijiawei/article/details/53737858
 
+### Mongodb 连接数过高解决方法
+https://my.oschina.net/u/1445816/blog/820000
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
