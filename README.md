@@ -179,6 +179,7 @@ http://www.cnblogs.com/lovecindywang/archive/2011/03/02/1969324.htm
 https://www.cnblogs.com/hy007x/p/7736403.html<br/>
 https://www.cnblogs.com/ahaii/p/7146290.html?utm_source=itdadao&utm_medium=referral<br/>
 https://blog.csdn.net/jianlong727/article/details/54586855<br/>
+MMS监控：http://www.ywnds.com/?p=6430<br/>
 
 ### Monogodb副本集+切片搭建高可用
 https://yq.aliyun.com/articles/617226<br/>
