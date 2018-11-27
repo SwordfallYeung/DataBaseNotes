@@ -191,7 +191,8 @@ https://blog.csdn.net/majinggogogo/article/details/51586409<br/>
 
 ### Mongodb 报 “连接时提示Connection reset by peers？”
 https://yq.aliyun.com/articles/53771<br/>
-https://yq.aliyun.com/articles/8461?spm=a2c4e.11153940.blogcont53771.6.48ea3d825H8ebr
+https://yq.aliyun.com/articles/8461?spm=a2c4e.11153940.blogcont53771.6.48ea3d825H8ebr<br/>
+https://www.cnblogs.com/archoncap/p/5883723.html
 
 ### mongodb性能优化
 https://blog.csdn.net/happy_jijiawei/article/details/53737858
