@@ -202,6 +202,28 @@ https://my.oschina.net/u/1445816/blog/820000
 ### MongoDB最佳实践-持续更新版
 http://www.ywnds.com/?p=8656
 
+### 使用java Driver连接MongoDB切片+副本集群
+目前有两种方式可供连接：<br/>
+方式一：<br/>
+> String mongodbUri = resource.getString("mongo.uri");<br/>
+　String[] strings = mongodbUri.split(",");<br/>
+　List<ServerAddress> list = new ArrayList<>();<br/>
+　for (String host: strings){<br/>
+　　String[] hosts = host.split(":");<br/>
+　　list.add(new ServerAddress(hosts[0], Integer.parseInt(hosts[1])));<br/>
+　}<br/>
+　mongoClient = new MongoClient(list, myOptions);<br/>
+
+方式二：<br/>
+> String url = resource.getString("mongo.uri");
+　MongoClientURI connectionString =  new MongoClientURI(url);
+　mongoClient = new MongoClient(connectionString);
+
+目前比较推荐的连接方式是方式二，可以参考Mongodb官网和阿里云社区介绍：<br/>
+Mongodb官网介绍 replica set与sharded 连接方式：https://docs.mongodb.com/manual/reference/connection-string/<br/>
+https://yq.aliyun.com/articles/8461?spm=a2c4e.11153940.blogcont53771.6.48ea3d825H8ebr
+
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
