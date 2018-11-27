@@ -223,6 +223,8 @@ http://www.ywnds.com/?p=8656
 Mongodb官网介绍 replica set与sharded 连接方式：https://docs.mongodb.com/manual/reference/connection-string/<br/>
 https://yq.aliyun.com/articles/8461?spm=a2c4e.11153940.blogcont53771.6.48ea3d825H8ebr
 
+### Mongodb生产环境副本集的构成
+生产环境通常是 2个副本 + 1个仲裁（即一主一从一仲裁）
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
