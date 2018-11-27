@@ -230,6 +230,9 @@ https://yq.aliyun.com/articles/8461?spm=a2c4e.11153940.blogcont53771.6.48ea3d825
 ### Mongodb运维细节
 https://cloud.tencent.com/developer/article/1027550
 
+### Mongodb的oplogsize详解
+https://www.cnblogs.com/Joans/p/7723554.html
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
