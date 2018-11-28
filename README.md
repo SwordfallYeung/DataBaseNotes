@@ -248,6 +248,9 @@ https://www.cnblogs.com/xiaoit/p/4484343.html<br/>
 http://bbs.51cto.com/thread-1139575-1.html<br/>
 http://blog.51cto.com/xjsunjie/1412532
 
+### MongoDB启动报警及解决方法：
+https://blog.csdn.net/vkingnew/article/details/81703707
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
