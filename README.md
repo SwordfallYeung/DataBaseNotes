@@ -240,6 +240,9 @@ http://www.cnblogs.com/zhoujinyi/p/3130231.html
 ### Mongodb备份与恢复
 https://www.cnblogs.com/xiaotengyi/p/6393972.html
 
+### Mongodb 启动报错:"/sys/kernel/mm/transparent_hugepage/enabled is 'always'"
+https://blog.csdn.net/u013075468/article/details/51471033
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
