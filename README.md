@@ -246,6 +246,7 @@ https://blog.csdn.net/u013075468/article/details/51471033
 ### MongoDB numa系列问题二：WARNING: You are running on a NUMA machine.
 https://www.cnblogs.com/xiaoit/p/4484343.html<br/>
 http://bbs.51cto.com/thread-1139575-1.html<br/>
+http://blog.51cto.com/xjsunjie/1412532
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
