@@ -234,6 +234,9 @@ https://cloud.tencent.com/developer/article/1027550
 ### Mongodb的oplogsize详解
 https://www.cnblogs.com/Joans/p/7723554.html
 
+### Mongodb的配置属性说明
+http://www.cnblogs.com/zhoujinyi/p/3130231.html
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
