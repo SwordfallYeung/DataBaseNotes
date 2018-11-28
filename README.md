@@ -237,6 +237,9 @@ https://www.cnblogs.com/Joans/p/7723554.html
 ### Mongodb的配置属性说明
 http://www.cnblogs.com/zhoujinyi/p/3130231.html
 
+### Mongodb备份与恢复
+https://www.cnblogs.com/xiaotengyi/p/6393972.html
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
