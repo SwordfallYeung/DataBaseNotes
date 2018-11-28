@@ -251,6 +251,10 @@ http://blog.51cto.com/xjsunjie/1412532
 ### MongoDB启动报警及解决方法：
 https://blog.csdn.net/vkingnew/article/details/81703707
 
+### MongoDB自动化部署参考
+https://my.oschina.net/u/3036707/blog/786816<br/>
+https://blog.csdn.net/huwei2003/article/details/44059797
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
