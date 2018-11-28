@@ -255,6 +255,9 @@ https://blog.csdn.net/vkingnew/article/details/81703707
 https://my.oschina.net/u/3036707/blog/786816<br/>
 https://blog.csdn.net/huwei2003/article/details/44059797
 
+### Mongodb副本集常用操作命令及原理
+https://www.cnblogs.com/ivictor/p/6804408.html
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
