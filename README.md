@@ -180,6 +180,7 @@ https://www.cnblogs.com/hy007x/p/7736403.html<br/>
 https://www.cnblogs.com/ahaii/p/7146290.html?utm_source=itdadao&utm_medium=referral<br/>
 https://blog.csdn.net/jianlong727/article/details/54586855<br/>
 MMS监控：http://www.ywnds.com/?p=6430<br/>
+MongoDB 生态 – 可视化管理工具: http://www.mongoing.com/archives/3651<br/>
 
 ### Monogodb副本集+切片搭建高可用
 https://yq.aliyun.com/articles/617226<br/>
