@@ -238,7 +238,9 @@ https://www.cnblogs.com/Joans/p/7723554.html
 http://www.cnblogs.com/zhoujinyi/p/3130231.html
 
 ### Mongodb备份与恢复
-https://www.cnblogs.com/xiaotengyi/p/6393972.html
+>./mongodump  --host 192.168.187.201:29050  --authenticationDatabase admin -d test -o /opt/app/mongodb/dump<br/>
+./mongorestore  --host 192.168.187.201:29050  --authenticationDatabase admin -d test  /opt/app/mongodb/store<br/>
+https://www.cnblogs.com/xiaotengyi/p/6393972.html<br/>
 
 ### Mongodb 启动报错:"/sys/kernel/mm/transparent_hugepage/enabled is 'always'"
 https://blog.csdn.net/u013075468/article/details/51471033
