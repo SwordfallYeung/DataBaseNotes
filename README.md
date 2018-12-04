@@ -262,6 +262,14 @@ https://blog.csdn.net/huwei2003/article/details/44059797
 ### Mongodb副本集常用操作命令及原理
 https://www.cnblogs.com/ivictor/p/6804408.html
 
+### Mongodb分片+副本集群启动的顺序
+集群环境：15个节点，3台机器，3个config，3个shard1，3个shard2，3个shard3，3个mongos，每台机器1个config、1个shard1、1个shard2、1个shard3、1个mongos<br/>
+先是配置服务副本集启动，再是shard1分片副本集启动，接着是shard2分片副本集启动，后是shard3分片副本集启动，最后是mongos路由启动<br/>
+<b>注意：<b/> 
+  1. 不能先在机器node1上面一次性启动config、shard1、shard2、shard3，等node1都启动完后再在node2、node3上启动，这种做法是错误的，会导致node1上的4个服务始终在等待中。<br/>
+  2. mongos要等所有机器的config、shard1、shard2、shard3全部启动起来，才能最终启动mongos，要不然启动报错<br/>
+  3. 如果非要一次性在一台机器上启动config、shard1、shard2、shard3四个服务，需要三台机器同时都启动4个服务，最后再启动mongos<br/>
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
