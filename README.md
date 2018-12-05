@@ -267,7 +267,7 @@ https://www.cnblogs.com/ivictor/p/6804408.html
 先是配置服务副本集启动，再是shard1分片副本集启动，接着是shard2分片副本集启动，后是shard3分片副本集启动，最后是mongos路由启动<br/>
 <b>注意：<b/> 
   1. 不能先在机器node1上面一次性启动config、shard1、shard2、shard3，等node1都启动完后再在node2、node3上启动，这种做法是错误的，会导致node1上的4个服务始终在等待中。<br/>
-  2. mongos要等所有机器的config、shard1、shard2、shard3全部启动起来，才能最终启动mongos，要不然启动报错<br/>
+  2. mongos要等所有机器的config、shard1、shard2、shard3全部启动起来，并且config、shard都已经初始化配置好，才能最终启动mongos，要不然启动报错<br/>
   3. 如果非要一次性在一台机器上启动config、shard1、shard2、shard3四个服务，需要三台机器同时都启动4个服务，最后再启动mongos<br/>
 
 ### Mongodb架构问题
