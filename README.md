@@ -282,6 +282,10 @@ cat /proc/$(pidof mongod)/smaps | grep 10240 -A 10<br/>
 
 https://www.cnblogs.com/unqiang/p/3748271.html
 
+### Mongodb Linux内存VSS,RSS,PSS,USS解析
+cat /proc/$(pidof mongod)/smaps | grep 10240 -A 10<br/>
+https://www.cnblogs.com/skydty/p/7560566.html
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
