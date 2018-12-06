@@ -197,15 +197,6 @@ https://yq.aliyun.com/articles/53771<br/>
 https://yq.aliyun.com/articles/8461?spm=a2c4e.11153940.blogcont53771.6.48ea3d825H8ebr<br/>
 https://www.cnblogs.com/archoncap/p/5883723.html
 
-### mongodb性能优化
-https://blog.csdn.net/happy_jijiawei/article/details/53737858
-
-### Mongodb 连接数过高解决方法
-https://my.oschina.net/u/1445816/blog/820000
-
-### MongoDB最佳实践-持续更新版
-http://www.ywnds.com/?p=8656
-
 ### 使用java Driver连接MongoDB切片+副本集群
 目前有两种方式可供连接：<br/>
 方式一：<br/>
@@ -276,6 +267,9 @@ https://www.cnblogs.com/ivictor/p/6804408.html
 它的机制是选择一个ping 最快的机器来作为所有请求的入口，如果这台机器挂掉会使用下一台机器。那这样。。。。肯定是不行的！万一出现双十一这样的情况所有请求集中发送到这一台机器，这台机器很有可能挂掉。一但挂掉了，按照它的机制会转移请求到下台机器，但是这个压力总量还是没有减少啊！下一台还是可能崩溃，所以这个架构还有漏洞！不过这个文章已经太长了，后续解决吧。<br/>
 Spring集成mongodb可以实现负载均衡，在压力大时体现明显，平时压力小的时候体现不明显。
 
+### Mongodb 连接数过高解决方法
+https://my.oschina.net/u/1445816/blog/820000
+
 ### Mongodb报错："too many open files"
 >ulimit -s 1024<br/>
 pidof mongod<br/>
@@ -290,6 +284,18 @@ https://www.cnblogs.com/skydty/p/7560566.html
 
 ### mongodb数据库分片问题，某一路由显示所有分片，但另一路由不显示分片
 建议所有路由都连接一遍都分库分表，确保所有路由的分库分表状态都保持一致
+
+---------------------------------------------------------------
+
+### mongodb性能优化
+优化方向：<br/>
+1. mongodb3.0引入了新的引擎WiredTiger，同时支持MMAPv1内存映射引擎和 inMemory
+https://blog.csdn.net/happy_jijiawei/article/details/53737858
+
+
+
+### MongoDB最佳实践-持续更新版
+http://www.ywnds.com/?p=8656
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
