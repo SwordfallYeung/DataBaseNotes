@@ -179,9 +179,10 @@ http://www.cnblogs.com/lovecindywang/archive/2011/03/02/1969324.htm
 https://www.cnblogs.com/hy007x/p/7736403.html<br/>
 https://www.cnblogs.com/ahaii/p/7146290.html?utm_source=itdadao&utm_medium=referral<br/>
 https://blog.csdn.net/jianlong727/article/details/54586855<br/>
+MongoDB 生态 – 可视化管理工具: http://www.mongoing.com/archives/3651<br/>
 MMS监控：http://www.ywnds.com/?p=6430<br/>
 MMS升级版-ops manager安装部署: https://blog.csdn.net/qq_15984019/article/details/82772452<br/>
-MongoDB 生态 – 可视化管理工具: http://www.mongoing.com/archives/3651<br/>
+OPS manager 硬件监控CPU，IO插件：https://docs.opsmanager.mongodb.com/v4.0/tutorial/configure-monitoring-munin-node/<br/>
 
 ### Monogodb副本集+切片搭建高可用
 https://yq.aliyun.com/articles/617226<br/>
