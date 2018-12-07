@@ -285,6 +285,10 @@ https://www.cnblogs.com/skydty/p/7560566.html
 ### mongodb数据库分片问题，某一路由显示所有分片，但另一路由不显示分片
 建议所有路由都连接一遍都分库分表，确保所有路由的分库分表状态都保持一致
 
+### mongodb日志过大
+https://docs.mongodb.com/manual/tutorial/rotate-log-files/<br/>
+https://blog.csdn.net/jjwen/article/details/51352980<br/>
+
 ---------------------------------------------------------------
 
 ### mongodb性能优化
