@@ -183,6 +183,9 @@ MongoDB 生态 – 可视化管理工具: http://www.mongoing.com/archives/3651<
 MMS监控：http://www.ywnds.com/?p=6430<br/>
 MMS升级版-ops manager安装部署: https://blog.csdn.net/qq_15984019/article/details/82772452<br/>
 OPS manager 硬件监控CPU，IO插件：https://docs.opsmanager.mongodb.com/v4.0/tutorial/configure-monitoring-munin-node/<br/>
+CPU：http://www.ttlsa.com/mms/mms-useing-munin-node-monitor-hardware/<br/>
+http://downloads.munin-monitoring.org/munin/stable/2.0.43/<br/>
+https://fedoraproject.org/wiki/EPEL<br/>
 
 ### Monogodb副本集+切片搭建高可用
 https://yq.aliyun.com/articles/617226<br/>
