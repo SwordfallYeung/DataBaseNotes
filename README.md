@@ -186,6 +186,7 @@ OPS manager 硬件监控CPU，IO插件：https://docs.opsmanager.mongodb.com/v4.
 CPU：http://www.ttlsa.com/mms/mms-useing-munin-node-monitor-hardware/<br/>
 http://downloads.munin-monitoring.org/munin/stable/2.0.43/<br/>
 https://fedoraproject.org/wiki/EPEL<br/>
+https://linux.cn/article-6920-1.html<br/>
 
 ### Monogodb副本集+切片搭建高可用
 https://yq.aliyun.com/articles/617226<br/>
