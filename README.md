@@ -293,17 +293,22 @@ https://www.cnblogs.com/skydty/p/7560566.html
 https://docs.mongodb.com/manual/tutorial/rotate-log-files/<br/>
 https://blog.csdn.net/jjwen/article/details/51352980<br/>
 
----------------------------------------------------------------
-
 ### mongodb性能优化
 优化方向：<br/>
 1. mongodb3.0引入了新的引擎WiredTiger，同时支持MMAPv1内存映射引擎和 inMemory
 https://blog.csdn.net/happy_jijiawei/article/details/53737858
 
-
-
 ### MongoDB最佳实践-持续更新版
 http://www.ywnds.com/?p=8656
+
+### mongodbtop mongodbstat mongosniff db.serverStatus db.stats详解
+https://blog.csdn.net/wmj2004/article/details/79415892<br/>
+https://blog.csdn.net/l1028386804/article/details/80009283<br/>
+https://blog.csdn.net/zhu_tianwei/article/details/44514861<br/>
+
+### linux硬件资源监控
+https://blog.csdn.net/lhcshare/article/details/50844538<br/>
+https://blog.faaoo.cn/yunwei/kftools/centos-red-hat-fedora-munin/
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
