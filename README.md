@@ -171,23 +171,6 @@ https://blog.csdn.net/dream20nn/article/details/51306228?utm_source=blogxgwz1
 ### mongodb 根据条件删除
 >db.getCollection('collisionTask').remove({_id:""})
 
-### mongodb 性能测试
-http://www.cnblogs.com/lovecindywang/archive/2011/03/02/1969324.htm
-
-### mongodb 监控工具
-开源的Ganglia、Zabbix、cacti、nagos，mongodb自带的mongostats/mongotop，MongoDB Monitoring Service<br/>
-https://www.cnblogs.com/hy007x/p/7736403.html<br/>
-https://www.cnblogs.com/ahaii/p/7146290.html?utm_source=itdadao&utm_medium=referral<br/>
-https://blog.csdn.net/jianlong727/article/details/54586855<br/>
-MongoDB 生态 – 可视化管理工具: http://www.mongoing.com/archives/3651<br/>
-MMS监控：http://www.ywnds.com/?p=6430<br/>
-MMS升级版-ops manager安装部署: https://blog.csdn.net/qq_15984019/article/details/82772452<br/>
-OPS manager 硬件监控CPU，IO插件：https://docs.opsmanager.mongodb.com/v4.0/tutorial/configure-monitoring-munin-node/<br/>
-CPU：http://www.ttlsa.com/mms/mms-useing-munin-node-monitor-hardware/<br/>
-http://downloads.munin-monitoring.org/munin/stable/2.0.43/<br/>
-https://fedoraproject.org/wiki/EPEL<br/>
-https://linux.cn/article-6920-1.html<br/>
-
 ### Monogodb副本集+切片搭建高可用
 https://yq.aliyun.com/articles/617226<br/>
 读写分离：https://blog.csdn.net/majinggogogo/article/details/51586409<br/>
@@ -301,10 +284,28 @@ https://blog.csdn.net/happy_jijiawei/article/details/53737858
 ### MongoDB最佳实践-持续更新版
 http://www.ywnds.com/?p=8656
 
+### mongodb 性能测试
+http://www.cnblogs.com/lovecindywang/archive/2011/03/02/1969324.htm
+
+### mongodb 监控工具
+开源的Ganglia、Zabbix、cacti、nagos，mongodb自带的mongostats/mongotop，MongoDB Monitoring Service<br/>
+https://www.cnblogs.com/hy007x/p/7736403.html<br/>
+https://www.cnblogs.com/ahaii/p/7146290.html?utm_source=itdadao&utm_medium=referral<br/>
+https://blog.csdn.net/jianlong727/article/details/54586855<br/>
+MongoDB 生态 – 可视化管理工具: http://www.mongoing.com/archives/3651<br/>
+MMS监控：http://www.ywnds.com/?p=6430<br/>
+MMS升级版-ops manager安装部署: https://blog.csdn.net/qq_15984019/article/details/82772452<br/>
+OPS manager 硬件监控CPU，IO插件：https://docs.opsmanager.mongodb.com/v4.0/tutorial/configure-monitoring-munin-node/<br/>
+CPU：http://www.ttlsa.com/mms/mms-useing-munin-node-monitor-hardware/<br/>
+http://downloads.munin-monitoring.org/munin/stable/2.0.43/<br/>
+https://fedoraproject.org/wiki/EPEL<br/>
+https://linux.cn/article-6920-1.html<br/>
+
 ### mongodbtop mongodbstat mongosniff db.serverStatus db.stats详解
 https://blog.csdn.net/wmj2004/article/details/79415892<br/>
 https://blog.csdn.net/l1028386804/article/details/80009283<br/>
 https://blog.csdn.net/zhu_tianwei/article/details/44514861<br/>
+http://www.mongoing.com/docs/reference/ulimit.html<br/>
 
 ### linux硬件资源监控
 https://blog.csdn.net/lhcshare/article/details/50844538<br/>
