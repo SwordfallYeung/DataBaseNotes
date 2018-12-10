@@ -311,6 +311,11 @@ http://www.mongoing.com/docs/reference/ulimit.html<br/>
 https://blog.csdn.net/lhcshare/article/details/50844538<br/>
 https://blog.faaoo.cn/yunwei/kftools/centos-red-hat-fedora-munin/
 
+### mongodb 水平扩容
+https://www.cnblogs.com/clsn/p/8214345.html<br/>
+https://www.oschina.net/question/2668481_2157681<br/>
+http://www.cnblogs.com/wufengtinghai/p/3832728.html<br/>
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
