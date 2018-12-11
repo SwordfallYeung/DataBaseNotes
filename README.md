@@ -310,6 +310,8 @@ http://www.mongoing.com/docs/reference/ulimit.html<br/>
 ### linux硬件资源监控
 https://blog.csdn.net/lhcshare/article/details/50844538<br/>
 https://blog.faaoo.cn/yunwei/kftools/centos-red-hat-fedora-munin/
+>报错：Can't load '/usr/lib64/perl5/vendor_perl/auto/RRDs/RRDs.so' for module RRDs: /lib64/libpango-1.0.so.0: undefined symbol: g_log_structured_standard at /usr/lib64/perl5/DynaLoader.pm line 190.<br/>
+解决方法：https://forums.cpanel.net/threads/rrds-pm-missing.9476/
 
 ### mongodb 水平扩容
 https://www.cnblogs.com/clsn/p/8214345.html<br/>
