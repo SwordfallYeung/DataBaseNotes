@@ -312,6 +312,7 @@ https://blog.csdn.net/lhcshare/article/details/50844538<br/>
 https://blog.faaoo.cn/yunwei/kftools/centos-red-hat-fedora-munin/<br/>
 https://blog.csdn.net/qinglianluan/article/details/43054833<br/>
 https://www.cnblogs.com/rond/p/3757804.html<br/>
+添加动态图：https://www.cnblogs.com/rond/p/3777248.html<br/>
 >报错：Can't load '/usr/lib64/perl5/vendor_perl/auto/RRDs/RRDs.so' for module RRDs: */lib64/libpango-1.0.so.0*: undefined symbol: g_log_structured_standard at /usr/lib64/perl5/DynaLoader.pm line 190.<br/>
 解决方法：安装pango-devel pango依赖 yum install pango-devel<br/>
 参考资料：https://www.cyberciti.biz/faq/howto-install-rrdtool-on-rhel-linux/
