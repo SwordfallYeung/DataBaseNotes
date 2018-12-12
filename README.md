@@ -307,6 +307,9 @@ https://blog.csdn.net/l1028386804/article/details/80009283<br/>
 https://blog.csdn.net/zhu_tianwei/article/details/44514861<br/>
 http://www.mongoing.com/docs/reference/ulimit.html<br/>
 
+### mongodb explain慢查询分析
+https://blog.csdn.net/wanght89/article/details/77647914
+
 ### linux硬件资源监控
 https://blog.csdn.net/lhcshare/article/details/50844538<br/>
 https://blog.faaoo.cn/yunwei/kftools/centos-red-hat-fedora-munin/<br/>
