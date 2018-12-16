@@ -294,12 +294,16 @@ https://www.cnblogs.com/ahaii/p/7146290.html?utm_source=itdadao&utm_medium=refer
 https://blog.csdn.net/jianlong727/article/details/54586855<br/>
 MongoDB 生态 – 可视化管理工具: http://www.mongoing.com/archives/3651<br/>
 MMS监控：http://www.ywnds.com/?p=6430<br/>
-MMS升级版-ops manager安装部署: https://blog.csdn.net/qq_15984019/article/details/82772452<br/>
 OPS manager 硬件监控CPU，IO插件：https://docs.opsmanager.mongodb.com/v4.0/tutorial/configure-monitoring-munin-node/<br/>
 CPU：http://www.ttlsa.com/mms/mms-useing-munin-node-monitor-hardware/<br/>
 http://downloads.munin-monitoring.org/munin/stable/2.0.43/<br/>
 https://fedoraproject.org/wiki/EPEL<br/>
 https://linux.cn/article-6920-1.html<br/>
+
+建议采用的监控工具MMS升级版-ops manager安装部署：<br/>
+https://blog.csdn.net/qq_15984019/article/details/82772452<br/>
+https://winway.github.io/2016/01/28/mongodb-ops-introduce/<br/>
+https://nutao.github.io/2017/07/27/MongoDB-OPS-Manager%E7%9A%84%E6%90%AD%E5%BB%BA%E5%8F%8A%E4%BD%BF%E7%94%A8/<br/>
 
 ### mongodbtop mongodbstat mongosniff db.serverStatus db.stats详解
 https://blog.csdn.net/wmj2004/article/details/79415892<br/>
