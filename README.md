@@ -328,8 +328,11 @@ http://www.cnblogs.com/wufengtinghai/p/3832728.html<br/>
 ### mongodb停止顺序及方法
 https://blog.csdn.net/leshami/article/details/52371395
 
-### mongodb运行时关闭numa，centos关闭numa方法
-http://www.cnblogs.com/digdeep/p/10013779.html
+### mongodb运行时关闭numa
+centos7.x关闭numa方法:<br/>
+http://www.cnblogs.com/digdeep/p/10013779.html<br/>
+centos6.x关闭numa方法：<br/>
+http://www.cnblogs.com/paul8339/p/9798299.html<br/>
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
