@@ -325,6 +325,9 @@ https://www.cnblogs.com/clsn/p/8214345.html<br/>
 https://www.oschina.net/question/2668481_2157681<br/>
 http://www.cnblogs.com/wufengtinghai/p/3832728.html<br/>
 
+### mongodb停止
+https://blog.csdn.net/leshami/article/details/52371395
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
