@@ -334,6 +334,10 @@ http://www.cnblogs.com/digdeep/p/10013779.html<br/>
 centos6.x关闭numa方法：<br/>
 http://www.cnblogs.com/paul8339/p/9798299.html<br/>
 
+### mongodb 副本集关闭顺序 SAP
+https://www.cnblogs.com/xiaoit/p/4538608.html<br/>
+http://www.fualan.com/article/29/<br/>
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
