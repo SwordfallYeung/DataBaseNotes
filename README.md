@@ -342,6 +342,9 @@ http://www.cnblogs.com/paul8339/p/9798299.html<br/>
 https://www.cnblogs.com/xiaoit/p/4538608.html<br/>
 http://www.fualan.com/article/29/<br/>
 
+### mongodb 日志过大解决
+https://blog.csdn.net/eagle89/article/details/80019820
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
