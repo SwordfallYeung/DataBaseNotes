@@ -342,8 +342,9 @@ http://www.cnblogs.com/paul8339/p/9798299.html<br/>
 https://www.cnblogs.com/xiaoit/p/4538608.html<br/>
 http://www.fualan.com/article/29/<br/>
 
-### mongodb 日志过大解决
-https://blog.csdn.net/eagle89/article/details/80019820
+### mongodb 日志切割日志
+https://www.jianshu.com/p/c3cf130bbf78<br/>
+https://www.cnblogs.com/Jtianlin/p/5081104.html<br/>
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
