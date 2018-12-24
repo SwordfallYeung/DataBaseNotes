@@ -224,7 +224,8 @@ http://www.cnblogs.com/zhoujinyi/p/3130231.html
 https://www.cnblogs.com/xiaotengyi/p/6393972.html<br/>
 
 ### Mongodb 启动报错:"/sys/kernel/mm/transparent_hugepage/enabled is 'always'"
-https://blog.csdn.net/u013075468/article/details/51471033
+https://blog.csdn.net/u013075468/article/details/51471033<br/>
+http://www.cnblogs.com/kerrycode/archive/2015/07/23/4670931.html
 
 ### MongoDB numa系列问题二：WARNING: You are running on a NUMA machine.
 https://www.cnblogs.com/xiaoit/p/4484343.html<br/>
