@@ -351,6 +351,7 @@ https://www.cnblogs.com/Jtianlin/p/5081104.html<br/>
 https://blog.csdn.net/leshami/article/details/60757341<br/>
 https://blog.csdn.net/liqi_q/article/details/79047361<br/>
 https://blog.csdn.net/q936889811/article/details/79704544<br/>
+https://www.cnblogs.com/magialmoon/archive/2013/04/10/3013121.html 删除数据库的基片<br/>
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
