@@ -350,6 +350,7 @@ https://www.cnblogs.com/Jtianlin/p/5081104.html<br/>
 ### mongodb分片增删、节点增删
 https://blog.csdn.net/leshami/article/details/60757341<br/>
 https://blog.csdn.net/liqi_q/article/details/79047361<br/>
+https://blog.csdn.net/q936889811/article/details/79704544<br/>
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
