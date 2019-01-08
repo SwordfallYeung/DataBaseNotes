@@ -347,6 +347,10 @@ http://www.fualan.com/article/29/<br/>
 https://www.jianshu.com/p/c3cf130bbf78<br/>
 https://www.cnblogs.com/Jtianlin/p/5081104.html<br/>
 
+### mongodb分片增删、节点增删
+https://blog.csdn.net/leshami/article/details/60757341<br/>
+https://blog.csdn.net/liqi_q/article/details/79047361<br/>
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
