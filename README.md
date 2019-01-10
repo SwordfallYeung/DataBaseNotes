@@ -353,6 +353,11 @@ https://blog.csdn.net/liqi_q/article/details/79047361<br/>
 https://blog.csdn.net/q936889811/article/details/79704544<br/>
 https://www.cnblogs.com/magialmoon/archive/2013/04/10/3013121.html 删除数据库的基片<br/>
 
+### mongodb新旧配置文件对比，建议采用新配置文件YAML，新版可控性高
+https://www.cnblogs.com/zhangjmy/articles/5073742.html<br/>
+https://www.cnblogs.com/phpandmysql/p/7763394.html<br/>
+https://shift-alt-ctrl.iteye.com/blog/2242907<br/>
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
