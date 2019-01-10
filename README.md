@@ -358,6 +358,14 @@ https://www.cnblogs.com/zhangjmy/articles/5073742.html<br/>
 https://www.cnblogs.com/phpandmysql/p/7763394.html<br/>
 https://shift-alt-ctrl.iteye.com/blog/2242907<br/>
 
+### mongodb进程内存控制 --wiredTigerCacheSizeGB
+https://blog.csdn.net/LuyaoYing001/article/details/75576820<br/>
+
+### mongodb生产环境系统配置优化
+http://www.mongoing.com/archives/8781<br/>
+https://www.cnblogs.com/mysql-dba/p/5048274.html<br/>
+http://www.ywnds.com/?p=8656<br/>
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
