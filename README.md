@@ -366,6 +366,10 @@ http://www.mongoing.com/archives/8781<br/>
 https://www.cnblogs.com/mysql-dba/p/5048274.html<br/>
 http://www.ywnds.com/?p=8656<br/>
 
+### mongodb journal原理及其路径设置
+https://zhuanlan.zhihu.com/p/34248254<br/>
+http://zhangliyong.github.io/posts/2014/02/18/mongodb-journal.html<br/>
+
 --------------------------------------------------------------------------------------------------------------------------------------
 
 # HBase数据库
