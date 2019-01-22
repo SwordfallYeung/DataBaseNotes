@@ -372,14 +372,3 @@ http://zhangliyong.github.io/posts/2014/02/18/mongodb-journal.html<br/>
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-# HBase数据库
-rowkey设计：<br/>
-常用的rowkey设计为：salt (1 byte) + attr1_id (4 bytes) + timestamp (4 bytes) + attr2_id (4 bytes) <br/>
-https://blog.csdn.net/chengyuqiang/article/details/79134549
-
-rowkey避免热点：<br/>
-https://my.oschina.net/lanzp/blog/477732
-
-HBase二级索引：<br/>
-https://blog.csdn.net/WYpersist/article/details/79830811<br/>
-https://www.jianshu.com/p/0ccd187910e5
