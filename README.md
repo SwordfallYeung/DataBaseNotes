@@ -258,7 +258,7 @@ Spring集成mongodb可以实现负载均衡，在压力大时体现明显，平�
 ### Mongodb 连接数过高解决方法
 https://my.oschina.net/u/1445816/blog/820000
 
-### Mongodb报错："too many open files"
+### Mongodb报错："too many open files" 连接数与连接优化
 >ulimit -s 1024<br/>
 pidof mongod<br/>
 cat /proc/$(pidof mongod)/limits | grep stack | awk -F 'size' '{print int($NF)/1024}'<br/>
